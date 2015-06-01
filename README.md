@@ -4,7 +4,8 @@ This is the Comm0 variant on [vccw](http://vccw.cc/).  Modifications have been m
 
 ## Configuration
 
-*Requirements:*
+**Requirements:**
+
 1. [Vagrant](https://www.vagrantup.com/downloads.html) 1.5 or later
 1. [git](https://git-scm.com/)
 1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads) 4.3 or later

@@ -10,7 +10,7 @@ This is the Comm0 variant on [vccw](http://vccw.cc/).  Modifications have been m
 1. [git](https://git-scm.com/)
 1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads) 4.3 or later
 
-```
+```bash
 $ vagrant plugin install vagrant-hostsupdater
 $ vagrant box add miya0001/vccw
 $ git clone https://github.com/uconn/vccw.git

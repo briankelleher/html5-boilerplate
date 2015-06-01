@@ -26,6 +26,6 @@ Wordpress admin username: `admin`
 
 Wordpress admin password: `admin`
 
-### Notes
+## Notes
 
 **Cas-maestro:** The plugin defaults to yourschool.edu for verification, I recommend adding this plugin only in production, but if you need it in development, I recommend adding it manually.  If you allow the provisioner to add and activate this plugin, you will need to add `?wp` to the end of the wp-admin URLs, but I still experienced problems with this method.

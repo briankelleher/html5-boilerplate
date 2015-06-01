@@ -22,5 +22,6 @@ Customizable settings reside in the `site.yml` file.  Any post provision shell s
 
 You should now be able to see your site at [http://192.168.33.10/](http://192.168.33.10/) or [http://wordpress.local/](http://wordpress.local/).
 
-Wordpress Username: `admin`
-Wordpress Password: `admin`
+Wordpress admin username: `admin`
+
+Wordpress admin password: `admin`
